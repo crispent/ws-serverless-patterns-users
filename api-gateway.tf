@@ -1,5 +1,6 @@
 
 # Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# Copyright South Africa
 # SPDX-License-Identifier: MIT-0
 
 resource "aws_api_gateway_rest_api" "rest_api" {
