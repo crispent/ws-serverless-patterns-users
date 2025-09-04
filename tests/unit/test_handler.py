@@ -1,6 +1,6 @@
 # Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 # SPDX-License-Identifier: MIT-0
-
+# update
 import json
 import os
 os.environ['AWS_DEFAULT_REGION'] = 'us-east-1'
